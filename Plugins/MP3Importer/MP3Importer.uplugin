@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Mp3 importer",
+	"Description": "Allows the use of MP3 audio files.",
+	"Category": "MP3Importer",
+	"CreatedBy": "Simon Hager",
+	"CreatedByURL": "nope.www",
+	"DocsURL": "docs",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"Modules": [
+		{
+			"Name": "MP3Importer",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
+	"EnabledByDefault": false,
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false
+}
